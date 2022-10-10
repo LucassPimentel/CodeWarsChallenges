@@ -1,0 +1,15 @@
+C:\Users\lupdsilva\source\repos\CodeWarsChallenges\CodeWarsChallenges\bin\Debug\net6.0\CodeWarsChallenges.exe
+C:\Users\lupdsilva\source\repos\CodeWarsChallenges\CodeWarsChallenges\bin\Debug\net6.0\CodeWarsChallenges.deps.json
+C:\Users\lupdsilva\source\repos\CodeWarsChallenges\CodeWarsChallenges\bin\Debug\net6.0\CodeWarsChallenges.runtimeconfig.json
+C:\Users\lupdsilva\source\repos\CodeWarsChallenges\CodeWarsChallenges\bin\Debug\net6.0\CodeWarsChallenges.dll
+C:\Users\lupdsilva\source\repos\CodeWarsChallenges\CodeWarsChallenges\bin\Debug\net6.0\CodeWarsChallenges.pdb
+C:\Users\lupdsilva\source\repos\CodeWarsChallenges\CodeWarsChallenges\obj\Debug\net6.0\CodeWarsChallenges.csproj.AssemblyReference.cache
+C:\Users\lupdsilva\source\repos\CodeWarsChallenges\CodeWarsChallenges\obj\Debug\net6.0\CodeWarsChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lupdsilva\source\repos\CodeWarsChallenges\CodeWarsChallenges\obj\Debug\net6.0\CodeWarsChallenges.AssemblyInfoInputs.cache
+C:\Users\lupdsilva\source\repos\CodeWarsChallenges\CodeWarsChallenges\obj\Debug\net6.0\CodeWarsChallenges.AssemblyInfo.cs
+C:\Users\lupdsilva\source\repos\CodeWarsChallenges\CodeWarsChallenges\obj\Debug\net6.0\CodeWarsChallenges.csproj.CoreCompileInputs.cache
+C:\Users\lupdsilva\source\repos\CodeWarsChallenges\CodeWarsChallenges\obj\Debug\net6.0\CodeWarsChallenges.dll
+C:\Users\lupdsilva\source\repos\CodeWarsChallenges\CodeWarsChallenges\obj\Debug\net6.0\refint\CodeWarsChallenges.dll
+C:\Users\lupdsilva\source\repos\CodeWarsChallenges\CodeWarsChallenges\obj\Debug\net6.0\CodeWarsChallenges.pdb
+C:\Users\lupdsilva\source\repos\CodeWarsChallenges\CodeWarsChallenges\obj\Debug\net6.0\CodeWarsChallenges.genruntimeconfig.cache
+C:\Users\lupdsilva\source\repos\CodeWarsChallenges\CodeWarsChallenges\obj\Debug\net6.0\ref\CodeWarsChallenges.dll
