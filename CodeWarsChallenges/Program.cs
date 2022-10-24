@@ -7,3 +7,4 @@
 //Challenge.Disemvowel("Are you a communist? Wtf");
 //ChallengeFriendOrFoe.FriendOrFoe(new string[] { "Ryan", "Kieran", "Mark", "Jimmy" });
 //Console.WriteLine(Challenge.IsTriangle(5, 7, 10)); 
+//Console.WriteLine(ChallengeGetMiddle.GetMiddle("A"));

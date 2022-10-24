@@ -14,6 +14,7 @@ namespace CodeWarsChallenges.Challenges
             string newStr = str;
 
             for (int i = 0; i < str.Length; i++)
+
             {
                 if ("aeiou".Contains(str.ToLower()[i]))
                 {
@@ -25,7 +26,7 @@ namespace CodeWarsChallenges.Challenges
     }
 }
 //MELHOR JEITO
-//public static string Disemvowel(string str)
+//public static string Disemvowel(string str) 
 //{
 //    return string.Concat(str.Where(ch => !"aeiouAEIOU".Contains(ch)));
 //}
