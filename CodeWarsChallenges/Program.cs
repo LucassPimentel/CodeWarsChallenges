@@ -8,3 +8,5 @@
 //ChallengeFriendOrFoe.FriendOrFoe(new string[] { "Ryan", "Kieran", "Mark", "Jimmy" });
 //Console.WriteLine(Challenge.IsTriangle(5, 7, 10)); 
 //Console.WriteLine(ChallengeGetMiddle.GetMiddle("A"));
+//Console.WriteLine(RemoveUrlAnchorChallenge.RemoveUrlAnchor("www.codewars.com#about"));
+//Console.WriteLine(Challenge.Factorial(2));
